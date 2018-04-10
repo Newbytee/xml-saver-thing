@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_121" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="sparare.Person">
+    <void property="enamn">
+     <string>Bergman</string>
+    </void>
+    <void property="fnamn">
+     <string>Tina</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="sparare.Person">
+    <void property="enamn">
+     <string>Andersson</string>
+    </void>
+    <void property="fnamn">
+     <string>Sara</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="sparare.Person">
+    <void property="enamn">
+     <string>Hansson</string>
+    </void>
+    <void property="fnamn">
+     <string>Stefan</string>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>
